@@ -1,0 +1,4 @@
+infrared_df_norm
+infra_norm_no_outliers
+prepped_infrared_df
+testing_df
